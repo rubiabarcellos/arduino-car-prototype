@@ -1,0 +1,2 @@
+# arduino-car-prototype
+Este projeto tem como intuito oferecer uma alternativa às crianças de hoje em dia, realizando a junção da tecnologia atual com uma atividade comum antigamente: controlar um carrinho, de forma a volver a atividade a uma opção de lazer atrativa. O projeto é desenvolvido no âmbito da plataforma de prototipagem Arduino para a criação de um robô sobre rodas, este, por sua vez, controlado por este aplicativo Android criado a partir da ferramenta de programação em blocos AppInventor.
